@@ -1,8 +1,0 @@
-# AppVeyor CI Configuration
-version: 0.0.{build}
-platform:
-- x86
-build_script:
-- echo Out
-test_script:
-- echo Test
